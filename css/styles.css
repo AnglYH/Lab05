@@ -1,0 +1,35 @@
+.container {
+    width: 70%;
+    border: 5px solid lightblue;
+    display: grid;
+    place-items: center;
+    margin: 0 auto;
+
+
+}
+form {
+    text-align: center;
+}
+.input {
+    width: 100%;
+    padding: 12px;
+    border: 6px;
+    border-radius: 5px;
+}
+.btn {
+    width: 100px;
+    height: 30px;
+    margin-top: 20px;
+    background-color: lightblue;
+    border-radius: 5px;
+    
+}
+ul li {
+    list-style-type: none;
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid lightblue;
+    width: 160px;
+    margin-right: 50px;
+    text-align: center;
+}
